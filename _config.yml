@@ -2,13 +2,13 @@
 #
 # Site settings
 #
-author: Charles Armstrap
-url: http://armstrap.org
-title: Armstrap
-email: your-email@domain.com
-tagline: Arming the Next-Generation Engineer
+author: Vo Quoc Duy
+url: http://microbus.asia
+title: Microbus
+email: duyvq.vn@gmail.com
+tagline: Do Less, Know More
 baseurl: ""
-description: Armstrap is a community of engineers and makers determined to help make ARM prototyping easy and fun.
+description: Microbus is a startup company with a mission to provide smart technology solutions and help engineers build their product easily.
 
 collections:
   products:
@@ -18,23 +18,23 @@ collections:
 # Social Media
 #
 social:
-  - title: twitter
-    url: https://twitter.com/armstrap
+  - title: facebook
+    url: https://facebook.com/mircobus
   - title: github
-    url: https://github.com/armstrap
+    url: https://github.com/MicrobusAsia
   - title: rss
     url: /feed.xml
 
 #
 # Google Analytics
 # 
-google_analytics_tracking_id: UA-44329536-1
+google_analytics_tracking_id: 
 
 
 #
 # Disqus Comments
 #
-disqus_short_name: armstrap-org
+disqus_short_name: microbus-asia
 disqus_show_comment_count: true
 
 
